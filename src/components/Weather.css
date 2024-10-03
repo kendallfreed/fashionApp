@@ -1,0 +1,29 @@
+.temp {
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(233, 223, 223);
+}
+
+.description{
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(233, 223, 223);
+}
+
+.secondary{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 100%;
+    margin: 1rem auto;
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: rgba(119, 115, 115, 0.151);
+}
+
+.bold{
+    font-weight:700;
+}
+
